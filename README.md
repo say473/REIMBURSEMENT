@@ -2,7 +2,22 @@
 <html>
 <head>
 <title> Onlyfans Rimbursement Verifications </title>
+<style>
+body{background-color:rgb(11, 135, 236)}
+h1 {font-size:300%;}
+h1{color: rgb(247, 251, 252);}
+h1{font-family: cursive;}
+h3{font-size:40px;}
+h3{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+h3{<ins> }
+h3{color: antiquewhite;}
+h4{font-size:large;}
+h4{color: antiquewhite;}
+h4{font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
+p {font:size 40px;
+color:white}
 
+ </style>
 
 </head>
 <body>
