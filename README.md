@@ -15,14 +15,12 @@ h4{font-size:large;}
 h4{color: antiquewhite;}
 h4{font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;}
 p {font:size 40px;
-color:white}
-
- </style>
-
+color:white
+   </style>
 </head>
 <body>
 <h1>OnlyFANS</h1>
-<h4><ins>Verifications to get your payment:</h4> </ins>
+<h4> <ins>Verifications to get your payment:</h4> </ins>
 <p>Hello chloe we are doing this to make sure its you. have to pay the sum of $499:00
 <br>to the database gatefee payment to verify that you took this actions by yourself
 <br>After paying you will sign on the gate fee form and take it back to the office Thank You.</p>
