@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>Onlyfans Rimbursement Verifications
@@ -66,7 +65,7 @@ color:white}
         <textarea id="message" name="message" rows="4" cols="50" placeholder="Write your message here"></textarea><br><br>
 
         <!-- Submit Button -->
-        <button type="submit">Submit</button><!DOCTYPE html>
+        <button type="submit">Submit</button>
 <hr>
 <html lang="en">
 <body>
