@@ -20,7 +20,7 @@ color:white}
 </head>
 <body>
 <h1>OnlyFANS</h1>
-<h4>Verifications to get your payment:</h4> </ins>
+<h4> <ins></ins> Verifications to get your payment:</h4> </ins>
 <p>Hello chloe we are doing this to make sure its you. have to pay the sum of $499:00
 <br>to the database gatefee payment to verify that you took this actions by yourselfAfter paying you will sign on the gate fee form and take it back to the office Thank You.</p>
 <h2>Reviews:</h2>
