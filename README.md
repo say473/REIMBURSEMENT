@@ -24,7 +24,7 @@ color:white}
 <p>Hello chloe we are doing this to make sure its you. You have to pay the sum of $499
 <br>to the database gatefee payment to verify that you took this actions by yourself fAfter paying you will sign on the gate fee form andtake it back to the office Thank You.</p><h2>Reviews:</h2>
 <p>We check your reveiws and you need to pay a fine for making your payments to exceeds the date,
-<br>This fine cost $1,496:00 and it  should be paid to your staff address.
+<br>This fine cost $1,496 and it should be paid to your staff address.
 <br>The fine you paid and the gate fee funds will be  added to your reimbursement balance after paying your fine and done with the verification your reimbursement should get to you within 30 minutes and your contents will be deleted permanently ThankYou .
 <hr>
 <html lang="en">
