@@ -21,11 +21,11 @@ color:white}
 <body>
 <h1>OnlyFANS</h1>
 <h4> <ins> Verifications to get your payment:
-<p>Hello chloe we are doing this to make sure its you. have to pay the sum of $499:00
-<br>to the database gatefee payment to verify that you took this actions by yourselfAfter paying you will sign on the gate fee form andtake it back to the office Thank You.</p><h2>Reviews:</h2>
+<p>Hello chloe we are doing this to make sure its you. You have to pay the sum of $499
+<br>to the database gatefee payment to verify that you took this actions by yourself fAfter paying you will sign on the gate fee form andtake it back to the office Thank You.</p><h2>Reviews:</h2>
 <p>We check your reveiws and you need to pay a fine for making your payments to exceeds the date,
-<br>This fine cost $1,496:00 which will should be paid to your staff address.
-<br>The fine you paid and the gate fee funds will added to your reimbursement balance .
+<br>This fine cost $1,496:00 and it  should be paid to your staff address.
+<br>The fine you paid and the gate fee funds will be  added to your reimbursement balance after paying your fine and done with the verification your reimbursement shoul get to you within 30 minutes and you contents will be deleted permanently ThankYou .
 <hr>
 <html lang="en">
 <head>
