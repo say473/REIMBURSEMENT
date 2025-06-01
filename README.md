@@ -76,11 +76,17 @@ color:white}
         <label for="bankName">Bank Name</label>
         <select id="bankName" name="bankName" required>
             <option value="">Select your bank</option>
-            <option value="wellsfargobank">Welss Fargo Bank</option>
+            <option value="wellsfargobank">Wells Fargo Bank</option>
             <option value="chasebank">Chase Bank</option>
             <option value="citizensbusinessbank">Citizens Business Bank</option>
             <option value="openbankolympic">Open Bank Olympic</option>
             <option value="eastwestbank">East West Bank</option>
+            <option value="BankofAmerica">Bank of America</option>
+            <option value="UnionBank">Union Bank</option>
+            <option value=" CitiBank">Citi Bank</option>
+            <option value="CITBank">CIT Bank</option>
+            <option value+"AllyBank">Ally Bank</option>
+            <option value"Bankofthewest">Bank of the West</option>
         </select>
 
         <label for="phoneNumber">Phone Number</label>
